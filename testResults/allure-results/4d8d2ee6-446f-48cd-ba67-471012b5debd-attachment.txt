@@ -1,0 +1,6 @@
+====== WebDriver manager ======
+Get LATEST edgedriver version for Edge 135.0.3179
+Get LATEST edgedriver version for Edge 135.0.3179
+Driver [C:\Users\Spanidea-LT54\.wdm\drivers\edgedriver\win64\135.0.3179.66\msedgedriver.exe] found in cache
+Launching Edge browser
+Close Browser

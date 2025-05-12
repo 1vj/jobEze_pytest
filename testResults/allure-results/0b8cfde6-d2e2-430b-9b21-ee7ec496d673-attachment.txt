@@ -1,0 +1,1 @@
+Get value from database is ('data1',)

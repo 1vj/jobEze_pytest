@@ -1,0 +1,12 @@
+Sending DELETE request to https://companydev.jobeze.com/backend/users/2128
+Response received: 404
+Response Content:, <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot DELETE /users/2128</pre>
+</body>
+</html>

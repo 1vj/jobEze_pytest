@@ -1,0 +1,3 @@
+Sending GET request to https://companydev.jobeze.com/backend/user-info/1881
+Response received: 500
+Response Content:, {"status":500,"error":"Internal Server Error"}

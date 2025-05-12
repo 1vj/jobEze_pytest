@@ -1,0 +1,11 @@
+{
+  "login_data": [
+    {
+      "username": "Admin",
+      "password": "admin123"
+    }
+  ],
+  "home_url": "https://dev.jobeze.com/",
+  "admin_url": "https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers",
+  "admin_menu_list": ["User Management ", "Job ", "Organization ", "Qualifications ", "Nationalities", "Corporate Branding", "Configuration "]
+}

@@ -1,0 +1,11 @@
+====== WebDriver manager ======
+Get LATEST chromedriver version for google-chrome
+Get LATEST chromedriver version for google-chrome
+Driver [C:\Users\Spanidea-LT54\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+Launching Chrome browser
+Clicking on Jobs menu
+Clicking Jobs menu on navbar
+Find element Clicking Jobs Menu
+Checking if 'Management' submenu is visible
+Is submenu visible: True
+Close Browser

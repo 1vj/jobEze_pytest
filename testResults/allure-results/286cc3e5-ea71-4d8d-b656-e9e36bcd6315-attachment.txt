@@ -1,0 +1,11 @@
+====== WebDriver manager ======
+Get LATEST edgedriver version for Edge 135.0.3179
+Get LATEST edgedriver version for Edge 135.0.3179
+Get LATEST edgedriver version for Edge 135.0.3179
+About to download new driver from https://msedgedriver.azureedge.net/135.0.3179.66/edgedriver_win64.zip
+Driver downloading response is 200
+Get LATEST edgedriver version for Edge 135.0.3179
+Driver has been saved in cache [C:\Users\Spanidea-LT54\.wdm\drivers\edgedriver\win64\135.0.3179.66]
+Launching Edge browser
+Find element Clicking Home link
+Close Browser

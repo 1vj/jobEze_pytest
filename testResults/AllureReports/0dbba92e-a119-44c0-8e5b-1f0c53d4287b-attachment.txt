@@ -1,0 +1,12 @@
+Sending PATCH request to https://companydev.jobeze.com/backend/user-info/users/1881 with payload: {'value': 'Updated Sample'}
+Response received: 404
+Response Content:, <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot PATCH /user-info/users/1881</pre>
+</body>
+</html>

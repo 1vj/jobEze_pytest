@@ -1,0 +1,10 @@
+====== WebDriver manager ======
+Get LATEST chromedriver version for google-chrome
+Get LATEST chromedriver version for google-chrome
+Driver [C:\Users\Spanidea-LT54\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+Launching Chrome browser
+Clicking on Home link
+Clicking Home link on navbar
+Find element Clicking Home link
+Current URL after click: https://dev.jobeze.com/
+Close Browser

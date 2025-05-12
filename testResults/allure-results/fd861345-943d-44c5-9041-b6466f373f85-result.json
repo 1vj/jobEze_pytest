@@ -1,0 +1,1 @@
+{"name": "Verify Home link redirects to base URL", "status": "skipped", "start": 1744368469202, "stop": 1744368469202, "uuid": "defe48bb-5220-41e7-a2f6-3ae6697e123f", "testCaseId": "497eb5b99ffd59f1be07ef8b22b6f9a5", "fullName": "testsuites.jobeze.test_home_page.TestHomePage#test_click_home_link"}
