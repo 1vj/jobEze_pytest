@@ -1,0 +1,31 @@
+Launching test with URL: https://dev.jobeze.com (Host: local, ENV: dev, Browser: chrome, Headless: False)
+Successfully entered location
+Error displayed as expected: Please enter a skill
+Failed to clear location: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=138.0.7204.101)
+Stacktrace:
+	GetHandleVerifier [0x0x12244a3+62419]
+	GetHandleVerifier [0x0x12244e4+62484]
+	(No symbol) [0x0x1062133]
+	(No symbol) [0x0x10aa439]
+	(No symbol) [0x0x10aac9b]
+	(No symbol) [0x0x10f3052]
+	(No symbol) [0x0x10cf4b4]
+	(No symbol) [0x0x10f087a]
+	(No symbol) [0x0x10cf266]
+	(No symbol) [0x0x109e852]
+	(No symbol) [0x0x109f6f4]
+	GetHandleVerifier [0x0x1494793+2619075]
+	GetHandleVerifier [0x0x148fbaa+2599642]
+	GetHandleVerifier [0x0x124b04a+221050]
+	GetHandleVerifier [0x0x123b2c8+156152]
+	GetHandleVerifier [0x0x1241c7d+183213]
+	GetHandleVerifier [0x0x122c388+94904]
+	GetHandleVerifier [0x0x122c512+95298]
+	GetHandleVerifier [0x0x121766a+9626]
+	BaseThreadInitThunk [0x0x75e2fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77ab82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77ab827e+238]
+
+Successfully entered skill
+Successfully entered both values

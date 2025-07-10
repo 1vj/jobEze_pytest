@@ -1,0 +1,3 @@
+Launching test with URL: https://dev.jobeze.com (Host: local, ENV: dev, Browser: chrome, Headless: False)
+❌ Failed to enter text: name 'By' is not defined
+❌ Failed to enter text: name 'By' is not defined

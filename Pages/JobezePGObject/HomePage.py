@@ -45,6 +45,9 @@ class HomePage:
     LOGIN_BUTTON = (By.XPATH, "//button[contains(text(), 'LOGIN')]")
     SIGN_UP_BUTTON = (By.XPATH, "//button[contains(text(), 'SIGN UP')]")
     MANAGEMENT_SUBMENU = (By.XPATH, "//b[normalize-space()='Management']")
+    SKILL_TEXTBOx = (By.XPATH,"//input[@placeholder='Skills/designation/company']")
+    LOCATION_INPUT= (By.XPATH,"//input[@placeholder='Location']")
+    JOB_SEARCH_BUTTON = (By.XPATH,"//button[normalize-space()='Search']")
 
     def __init__(self, driver):
         self.driver = driver
@@ -69,3 +72,6 @@ class HomePage:
     def is_submenu_visible(self):
         log.info("Checking if 'Management' submenu is visible")
         return self.helper.is_element_displayed(self.MANAGEMENT_SUBMENU)
+    
+  
+

@@ -1,0 +1,28 @@
+Launching test with URL: https://dev.jobeze.com (Host: local, ENV: dev, Browser: chrome, Headless: False)
+❌ Failed to enter text: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=138.0.7204.101)
+Stacktrace:
+	GetHandleVerifier [0x0xa644a3+62419]
+	GetHandleVerifier [0x0xa644e4+62484]
+	(No symbol) [0x0x8a2133]
+	(No symbol) [0x0x8ea439]
+	(No symbol) [0x0x8eac9b]
+	(No symbol) [0x0x933052]
+	(No symbol) [0x0x90f4b4]
+	(No symbol) [0x0x93087a]
+	(No symbol) [0x0x90f266]
+	(No symbol) [0x0x8de852]
+	(No symbol) [0x0x8df6f4]
+	GetHandleVerifier [0x0xcd4793+2619075]
+	GetHandleVerifier [0x0xccfbaa+2599642]
+	GetHandleVerifier [0x0xa8b04a+221050]
+	GetHandleVerifier [0x0xa7b2c8+156152]
+	GetHandleVerifier [0x0xa81c7d+183213]
+	GetHandleVerifier [0x0xa6c388+94904]
+	GetHandleVerifier [0x0xa6c512+95298]
+	GetHandleVerifier [0x0xa5766a+9626]
+	BaseThreadInitThunk [0x0x75e2fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77ab82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77ab827e+238]
+
+❌ Failed to enter text: name 'text' is not defined

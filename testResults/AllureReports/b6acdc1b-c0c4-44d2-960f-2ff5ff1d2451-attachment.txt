@@ -1,0 +1,17 @@
+====== WebDriver manager ======
+Get LATEST chromedriver version for google-chrome
+Get LATEST chromedriver version for google-chrome
+There is no [win64] chromedriver "138.0.7204.94" for browser google-chrome "138.0.7204" in cache
+Get LATEST chromedriver version for google-chrome
+WebDriver version 138.0.7204.94 selected
+Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+Driver downloading response is 200
+Get LATEST chromedriver version for google-chrome
+Driver has been saved in cache [C:\Users\Spanidea\.wdm\drivers\chromedriver\win64\138.0.7204.94]
+Launching Chrome browser
+Clicking on Home link
+Clicking Home link on navbar
+Clicking element: Clicking Home link
+Current URL after click: https://dev.jobeze.com/
+Close Browser
