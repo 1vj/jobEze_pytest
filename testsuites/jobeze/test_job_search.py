@@ -86,5 +86,4 @@ class TestHomePage:
 
             self.web_driver_functions.click_element(self.home_page.JOB_SEARCH_BUTTON, "Final search with both inputs")
 
-            # Optional: add assertion or check for result page
 
