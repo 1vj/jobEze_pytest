@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "name": "C",
+      "category": "Programming Language",
+      "experience_level": ["Beginner", "Intermediate", "Advanced"]
+    },
+    {
+      "name": "C++",
+      "category": "Programming Language",
+      "experience_level": ["Beginner", "Intermediate", "Advanced"]
+    },
+    {
+      "name": "Java",
+      "category": "Programming Language",
+      "experience_level": ["Beginner", "Intermediate", "Advanced"]
+    }
+  ],
+  "locations": [
+    {
+      "city": "Bangalore",
+      "country": "India"
+    },
+    {
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan"
+    }
+  ]
+}

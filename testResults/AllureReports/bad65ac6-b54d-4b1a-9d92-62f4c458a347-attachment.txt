@@ -1,0 +1,8 @@
+====== WebDriver manager ======
+Get LATEST chromedriver version for google-chrome
+Get LATEST chromedriver version for google-chrome
+Driver [C:\Users\Spanidea\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+Launching Chrome browser
+Entering text 'Jodhpur' in Adding Location
+Entering text 'Python' in Adding Skills
+Close Browser

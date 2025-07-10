@@ -1,0 +1,2 @@
+Launching test with URL: https://dev.jobeze.com (Host: local, ENV: dev, Browser: chrome, Headless: False)
+❌ Failed to enter skill text: 'TestHomePage' object has no attribute 'webDriverHelper'
